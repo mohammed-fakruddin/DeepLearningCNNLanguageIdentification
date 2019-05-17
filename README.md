@@ -1,6 +1,6 @@
 # DeepLearning_CNN_LanguageIdentification
 
-Language Identification from Audio File using the Deep Learning CNN Model
+Language Identification from Audio Files using the Deep Learning CNN Model
 
 YouTube Video Tutorial URLs: <br>
    2 minutes video: https://youtu.be/8jNt1EIKpxc <br>
