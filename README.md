@@ -10,7 +10,7 @@ YouTube Video Tutorial URLs: <br>
 READ ME
 ---------------
 
-This is brief notes explaining the contents of the ModelAndData.zip folder and the steps you need to follow if you want to use the real data set from the specified website. 
+This is brief notes explaining the contents of the IndentificationOfForeignLanguage_FakruddinMohammed.zip folder and the steps you need to follow if you want to use the real data set from the specified website. 
 
 (1) Extract the contents of ModelAndData.zip folder to your desired location.
 
